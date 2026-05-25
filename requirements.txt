@@ -1,0 +1,19 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+# Web App
+streamlit
+streamlit-lottie
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Model Saving/Loading
+pickle-mixin
+
+# For animations (JSON Lottie files)
+requests
